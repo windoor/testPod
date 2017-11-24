@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = "testPod"    #存储库名称
+s.name         = "ShareUI"    #存储库名称
 s.version      = "0.0.1"      #版本号，与tag值一致
 s.summary      = "a repository demo"  #简介
 s.description  = "a repository demo"  #描述

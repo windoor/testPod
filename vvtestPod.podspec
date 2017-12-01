@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.license          = 'proprietary'
     s.author           = { 'nbl' => '438172@qq.com' }
     s.source           = { :git => 'https://github.com/windoor/vvtestPod.git', :tag => s.version }
-    s.ios.deployment_target = '8.0'
+    s.ios.deployment_target = '8.1'
     s.source_files = 'ShareUI/**/*.{h,m}'
     s.frameworks = 'UIKit', 'Foundation', 'QuartzCore', 'CoreGraphics'
     s.requires_arc = true
